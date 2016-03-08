@@ -1,0 +1,51 @@
+body
+{
+	background-color: rgb(104,187,285);
+}
+
+img
+{
+	padding-top: 40px;
+}
+
+h1
+{
+	text-align: center;
+}
+
+
+#left-box > p
+{
+	width: 80%;
+	margin-left: 10%;
+}
+#left-box
+{
+	background-color: rgb(9, 30, 45);
+	color: #FFFFFF;
+	float: left;
+	width: 35%;
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 3%;
+	padding-bottom: 8%;
+}
+#right-box
+{
+	float: right;
+	width: 50%;
+	margin-top: 3%;
+	margin-right: 3%;
+}
+#experience-box
+{
+	background-color: #FFFFFF;
+	text-align: center;
+
+}
+
+#studies-box
+{
+	background-color: #FFFFFF;
+	text-align: center;
+}
